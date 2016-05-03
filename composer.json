@@ -1,0 +1,33 @@
+{
+    "name": "heavenproject/utils",
+    "description": "Useful utility classes",
+    "keywords": [
+        "utils",
+        "utilities",
+        "utility classes"
+    ],
+    "type": "library",
+    "homepage": "https://github.com/CSHH/utils",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Community of volunteers"
+        }
+    ],
+    "require": {
+        "nette/utils": "~2.3.0"
+    },
+    "require-dev": {
+        "nette/tester": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    },
+    "autoload-dev": {
+        "classmap": [
+            "tests/include"
+        ]
+    }
+}
