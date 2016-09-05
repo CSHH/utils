@@ -2,6 +2,10 @@
 
 Useful utility classes.
 
+## Installation
+
+`composer require heavenproject/utils`
+
 ## Requirements
 
 - [Nette Framework](https://github.com/nette/nette)
